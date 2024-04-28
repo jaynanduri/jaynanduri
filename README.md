@@ -14,8 +14,8 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 - 👋 Hi, I’m Jayantha Nanduri currently pursuing Master's in Computer Science at Northeastern University, Boston.
-- 👀 My passion lies in applying the comprehensive knowledge I've accumulated in machine learning to address real-world challenges effectively. I am particularly interested in integrating machine learning techniques with traditional algorithms to achieve significant performance improvements.
-- 💞️ Machine Learning Engineer with 2+ years of experience in Banking and Financial Technology. Skilled in developing scalable, efficient cloud-based Machine Learning projects using Python, PyTorch, Node.js, Docker, Kubernetes, and AWS.
+- 👀 Machine Learning Engineer with 2+ years of experience in Banking and Financial Technology. Skilled in developing scalable, efficient cloud-based Machine Learning projects using Python, PyTorch, Node.js, Docker, Kubernetes, and AWS.
+- 💞️ My passion lies in applying the comprehensive knowledge I've accumulated in machine learning to address real-world challenges effectively. I am particularly interested in integrating machine learning techniques with traditional algorithms to achieve significant performance improvements.
 - 🌱 I’m currently learning about LLMs, RAGs and how to trian them using AWS SageMaker. 
 <!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
 ## Contact details
