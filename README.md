@@ -92,7 +92,7 @@
 <p float="left">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img alt="Spark" src=https://img.shields.io/badge/Apache-Spark-FF0000?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img alt="Spark" src=https://img.shields.io/badge/ApacheSpark-FF0000?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 ### Cloud and Hosting
