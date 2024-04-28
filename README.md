@@ -92,6 +92,10 @@
   <img alt="React Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Angular Js" src="https://img.shields.io/badge/-Angular-FF0000?style=for-the-badge&labelColor=red&logo=angular&logoColor=white"/>
+  <img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Next Js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  
 </p>
 
 ### Database
@@ -124,7 +128,7 @@
   <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img alt="GoogleSheets" src="https://img.shields.io/badge/-GoogleSheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/-Microsoft PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
-  <img alt="Jupyter NoteBook src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Jupyter NoteBook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
