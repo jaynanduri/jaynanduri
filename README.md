@@ -80,6 +80,9 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/Nlp-%800080.svg?style=for-the-badge&logo=Nlp&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img alt="MLFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
+  <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
 </p>
 
 
@@ -95,13 +98,16 @@
 <p float="left">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img alt="Spark" src=https://img.shields.io/badge/ApacheSpark-FF0000?style=for-the-badge&logo=apache&logoColor=white"/>
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
+<img alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 </p>
 
 ### Cloud and Hosting
 <p float="left">
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-FFEACA?style=for-the-badge&logo=Amazon&logoColor=white%22"/>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>                                                                                                                                     
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>                                                                                  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
   
@@ -118,7 +124,8 @@
   <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img alt="GoogleSheets" src="https://img.shields.io/badge/-GoogleSheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/-Microsoft PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
-
+  <img alt="Jupyter NoteBook src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </p>
