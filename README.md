@@ -23,7 +23,7 @@
   
 <b>Connect with me on [![Linkedin: Jayantha Nanduri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantha-nanduri/) and let's have a chat!</b>
 <br><i>or</i><br>
-<b>You can reach out to me on [![Gmail: Jayantha Nanduri](https://img.shields.io/badge/-ppalampa@buffalo.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jayantha.nanduri@gmail.com)
+<b>You can reach out to me on [![Gmail: Jayantha Nanduri](https://img.shields.io/badge/-jayantha.nanduri@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jayantha.nanduri@gmail.com)
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
