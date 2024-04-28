@@ -61,6 +61,8 @@
 ### Languages
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="Scala" src="[Https](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
